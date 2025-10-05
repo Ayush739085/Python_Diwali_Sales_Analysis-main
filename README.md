@@ -70,7 +70,7 @@ Helps businesses:
 * Manage **inventory** efficiently
 
 
-### 🏁 **Conclusion
+### 🏁 Conclusion
 The Diwali Sales Analysis shows that **women (age 26–35)**, especially **married customers** from **Uttar Pradesh, Maharashtra, and Karnataka**, spend the most during Diwali.
 **Clothing and electronics** are top-selling items, helping businesses plan better **marketing and sales strategies** for future festivals.
 

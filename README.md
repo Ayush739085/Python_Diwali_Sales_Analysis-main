@@ -61,7 +61,3 @@ Identify target customers
 Plan mrketing campaigns
 Manage inventory efficient
 
-
-Vaibhav singh
-
-Majahar khan

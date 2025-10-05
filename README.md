@@ -62,6 +62,7 @@ Plan mrketing campaigns
 Manage inventory efficient
 
 Team members:
+
 Ayush Singh
 
 dhiraj Yadav

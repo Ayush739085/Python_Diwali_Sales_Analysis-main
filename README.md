@@ -60,8 +60,8 @@ Helps businesses:
 Identify target customers
 Plan mrketing campaigns
 Manage inventory efficient
-Team members:
 
+Team members:
 Ayush Singh
 dhiraj Yadav
 aman Choudhary

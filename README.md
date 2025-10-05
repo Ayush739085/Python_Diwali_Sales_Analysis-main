@@ -1,5 +1,3 @@
-Here’s a clear **point-wise explanation** of the **“Python_Diwali_Sales_Analysis”** project — perfect for writing in a report or GitHub description 👇
-
 ---
 
 ## 🪔 **Python Diwali Sales Analysis – Project Description**
